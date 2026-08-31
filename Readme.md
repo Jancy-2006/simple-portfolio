@@ -7,11 +7,11 @@ The website showcases my basic skills, projects, resume, and contact details.
 ## Author
 Name: Jancy 
 Course: Frontend Web Development Basics  
-Project Type: Individual Assignment  
+Project Type: Individual Assignment 
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Pages Included
 1. Home Page – Introduction and navigation
@@ -46,4 +46,4 @@ The website is responsive and works on:
 3. Projects Page – Project list  
 4. Resume Page – Education and skills  
 5. Contact Page – Contact form  
-6. Navigation Menu – Menu visible on all pages
+6. Navigation Menu – Menu visible on all pages     
