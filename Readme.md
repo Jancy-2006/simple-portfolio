@@ -5,14 +5,14 @@ This is a simple and responsive personal portfolio website created using only HT
 The website showcases my basic skills, projects, resume, and contact details.
 
 ## Author
-Name: Jancy 
+Name: Jancy G
 Course: Frontend Web Development Basics  
-Project Type: Individual Assignment 
-
+Project Type: Individual Assignment .
+         
 ## Technologies Used
 - HTML
 - CSS
-
+              
 ## Pages Included
 1. Home Page – Introduction and navigation
 2. About Me Page – Skills, hobbies, and basic information
@@ -28,7 +28,7 @@ Project Type: Individual Assignment
 - Proper headings and clean layout
 
 ## Key CSS Features
-- Consistent color theme using CSS variables
+- Consistent colour theme using CSS variables
 - Box model (margin, padding, border)
 - Hover effects and transitions
 - Responsive design using media queries
