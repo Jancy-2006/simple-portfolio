@@ -1,12 +1,12 @@
-# Jancy – Personal Portfolio Website
+# Jancy's – Personal Portfolio Website
 
 ## Description
-This is a simple and responsive personal portfolio website created using only HTML and CSS as part of the Frontend Web Development Basics assessment.  
+This is a simple and responsive personal portfolio website created using only HTML and CSS .  
 The website showcases my basic skills, projects, resume, and contact details.
 
 ## Author
-Name: Jancy G
-Course: Frontend Web Development Basics  
+Name: Jancy G .
+Course: Frontend Web Development Basics .
 Project Type: Individual Assignment .
          
 ## Technologies Used
