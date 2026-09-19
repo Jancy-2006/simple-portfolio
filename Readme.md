@@ -1,4 +1,4 @@
-# Jancy's – Personal Portfolio Website
+# Jancy's  Personal Portfolio Website
 
 ## Description
 This is a simple and responsive personal portfolio website created using only HTML and CSS .  
