@@ -11,7 +11,7 @@ Project Type: Individual Assignment .
          
 ## Technologies Used
 - HTML
-- CSS
+- CSS  
               
 ## Pages Included
 1. Home Page – Introduction and navigation
