@@ -5,7 +5,7 @@ This is a simple and responsive personal portfolio website created using only HT
 The website showcases my basic skills, projects, resume, and contact details.
 
 ## Author
-Name: Jancy G .
+Name: Jancy G.
 Course: Frontend Web Development Basics .
 Project Type: Individual Assignment .
          
