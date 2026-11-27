@@ -10,8 +10,8 @@ Course: Frontend Web Development Basics .
 Project Type: Individual Assignment .
          
 ## Technologies Used
-- HTML
-- CSS  
+- HTML .
+- CSS . 
               
 ## Pages Included
 1. Home Page – Introduction and navigation
