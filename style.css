@@ -30,7 +30,7 @@ header {
     text-align: center;
     position: sticky;
     top: 0;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 2px solid var(--border-color);
 }
 
 header h1 {
